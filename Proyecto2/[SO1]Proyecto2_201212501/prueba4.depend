@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1428293532 source:/home/natth/Escritorio/Proyecto2/[SO1]Proyecto2_201212501/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+	<unistd.h>
+	<pthread.h>
+	<sys/shm.h>
+	<stdbool.h>
+
+1428293532 source:/home/natth/Escritorio/Proyecto2/[SO1]Proyecto2_201212501/main.c
+	<stdio.h>
+	<stdlib.h>
+	<ncurses.h>
+	<unistd.h>
+	<pthread.h>
+	<sys/shm.h>
+	<stdbool.h>
+
